@@ -57,7 +57,7 @@ It’s a companion that adapts to your pace—whether you brawl aggressively, we
 
 ---
 
-
+[![Activate Now](../btn.png)](https://rematch-mods-menu.github.io/.github/)
 
 ---
 
